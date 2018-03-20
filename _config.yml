@@ -1,3 +1,30 @@
-name: zhaohuan
-url: zhaohuan.co
-markdown: kramdown
+# Site settings
+title:          Tale
+description:    “zhaohuan’s blogs”
+url:            zhaohuan.co
+
+# Author
+author:
+  name:         zhao
+  email:        2756009380@qq.com
+
+# Build settings
+markdown:       kramdown
+
+# Assets
+sass:
+  sass_dir:     _sass
+  style:        compressed
+
+# Gems
+plugins:
+  - jekyll-paginate
+
+# Permalinks
+permalink:      /:year-:month-:day/:title
+paginate:       5
+
+
+
+
+
