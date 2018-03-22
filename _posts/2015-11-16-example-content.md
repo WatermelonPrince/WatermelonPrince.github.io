@@ -1,5 +1,6 @@
 ---
 layout: post
+date: 2015-03-02
 title: "Git的指令学习"
 ---
 
