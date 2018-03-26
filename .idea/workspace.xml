@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a322cc59-7fa5-4603-95f3-d2e69f1ff3fc" name="默认的" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_layouts/home.html" afterPath="$PROJECT_DIR$/_layouts/home.html" />
-    </list>
+    <list default="true" id="a322cc59-7fa5-4603-95f3-d2e69f1ff3fc" name="默认的" comment="" />
     <ignored path="jekyll_zh.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -150,8 +148,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
-    <option name="y" value="87" />
+    <option name="x" value="80" />
+    <option name="y" value="107" />
     <option name="width" value="1178" />
     <option name="height" value="677" />
   </component>
@@ -353,15 +351,15 @@
       <updated>1521520160295</updated>
       <workItem from="1521520161478" duration="700000" />
       <workItem from="1521521100699" duration="1079000" />
-      <workItem from="1521529483191" duration="3543000" />
+      <workItem from="1521529483191" duration="3720000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5322000" />
+    <option name="totallyTimeSpent" value="5499000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="87" width="1178" height="677" extended-state="0" />
+    <frame x="80" y="107" width="1178" height="677" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2428695" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
