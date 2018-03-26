@@ -10,7 +10,7 @@ layout: default
         <h1 class="catalogue-title">{{ post.title }}</h1>
         <div class="catalogue-line"></div>
 
-        <p style="height: 100px;">
+        <p style="height: 100px;overflow:hidden;">
           {{ post.content | strip_html | truncatewords: 30 }}
         </p>
 
